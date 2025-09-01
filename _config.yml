@@ -17,9 +17,10 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : Agency Jekyll Theme Demo
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+title      : VOICES-「アイデアをカタチに。世界へ届ける力を、すべてここに
+email      : info@voices.ltd
+description: "私たちは 物流・OEM生産・倉庫・EC販売・代理店業務 を一社完結で提供する総合サポート企業です。
+「モノをつくり、運び、売る」をシンプルに。フレンドリーで安心できる体制で、国内外のビジネスを支えます"
 author     : Your Name
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
