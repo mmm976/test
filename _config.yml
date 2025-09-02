@@ -24,7 +24,7 @@ description: "私たちは 物流・OEM生産・倉庫・EC販売・代理店業
 author     : Your Name
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+  # height: 54 #height in px, defaults to 48px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
